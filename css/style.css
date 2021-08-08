@@ -95,8 +95,11 @@ h3{font-size: var(--fs-h3);}
 .section__subtitle--intro{
     background: var(--clr-accent);
     font-family: var(--ff-secondary);
+    font-weight: var(--fw-bold);
     padding: .25em 1em;
     margin-bottom:1em;
+    margin-right: -4em;
+    box-shadow: var(--bs);
 }
 
 .section__subtitle--about{
